@@ -114,7 +114,6 @@
                         </constraints>
                     </view>
                     <connections>
-                        <outlet property="color" destination="WKp-PB-JyN" id="Tl6-Lc-QtY"/>
                         <outlet property="importantSwitch" destination="LJE-Ze-frU" id="Tnw-g5-VlL"/>
                         <outlet property="taskNameTextField" destination="OmK-Lc-4pj" id="a1f-yE-zV8"/>
                     </connections>
